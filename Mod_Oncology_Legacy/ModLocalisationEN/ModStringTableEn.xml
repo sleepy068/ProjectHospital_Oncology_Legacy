@@ -1,0 +1,19 @@
+<Database>
+	<GameDBStringTable ID="ADDON_MOD_ONCOLOGYSL_LEGACY">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>Sleepy068</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		
+	<GameDBLocalizedString>      
+	<LocID>ADDON_MOD_ONCOLOGYSL_LEGACY</LocID>                       	
+	<Text>Oncology Legacy Patch</Text>  
+	</GameDBLocalizedString>
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+
